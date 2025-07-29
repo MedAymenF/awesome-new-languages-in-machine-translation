@@ -36,6 +36,10 @@ Any new additions are welcome (in the form of pull requests or issues)!
 ##  Circassian (Kabardian)
 - Interface: https://www.zedzek.com/en
 
+##  Chechen 
+- Paper: https://arxiv.org/abs/2507.12672
+- Dataset, sentence encoder, translation model: [https://huggingface.co/collections/NM-development](https://huggingface.co/collections/NM-development/open-machine-translation-for-the-chechen-language-6877a4abad8a4ea9ef15bbef)
+
 ## Erzya
 - Interface: https://lango.to/ 
 - Paper (for an old version): https://aclanthology.org/2022.fieldmatters-1.6/
