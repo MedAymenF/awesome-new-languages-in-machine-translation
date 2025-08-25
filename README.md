@@ -71,6 +71,10 @@ See [TartuNLP](#finno-ugric-languages-tartunlp)
 ## Komi
 See [TartuNLP](#finno-ugric-languages-tartunlp)
 
+## Kpelle
+- Paper: https://arxiv.org/abs/2505.18905
+- Data: https://huggingface.co/datasets/IARG-UF/English-Kpelle-Corpus
+
 ## Ladin:
 - Paper: https://clic2024.ilc.cnr.it/wp-content/uploads/2024/12/104_main_long.pdf
 
