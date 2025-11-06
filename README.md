@@ -109,6 +109,10 @@ See [TartuNLP](#finno-ugric-languages-tartunlp)
 - Model: https://huggingface.co/TSjB/NLLB-201-600M-QM-V1 
 - Blog post (rus): https://habr.com/ru/articles/829248/ 
 
+## Tamazight
+- Model: https://huggingface.co/Tamazight-NLP/NLLB-200-600M-Tamazight-All-Data-3-epoch
+- Demo: https://huggingface.co/spaces/Tamazight-NLP/Finetuned-NLLB
+
 ## Tyvan
 - Blog: https://cointegrated.medium.com/a37fc706b865 
 - Interface: https://tyvan.ru/
